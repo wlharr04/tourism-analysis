@@ -24,7 +24,7 @@ While this should work on most computers, there is some required software than n
 
 ### Automated Setup
 
-There is an included shell script that will allow for an easy setup and activation of this. Simply run the following from either your Terminal or Git Bash:
+There is an included shell script that will allow for an easy setup and activation of a virtual environment. Simply run the following from either your Terminal or Git Bash:
 
 `source ./virtual-environment.sh`
 
