@@ -44,6 +44,6 @@ Once the virtual environment has been fully set up (or the requisite depedencies
 
 | Notebook | Purpose |
 |---------------|--------------|
-|exploration.ipynb |This notebook dives headfirst into the raw data allowing for us to see how it is formatted and will show us ways in which we may need to reformat the data to clean it.|
-|db-generator.ipynb |This notebook shows the cleaning of the data and its export into a SQL database for ease of manipulation.|
+|data-exploration.ipynb |This notebook dives headfirst into the raw data allowing for us to see how it is formatted and will show us ways in which we may need to reformat the data to clean it.|
+|db-creation.ipynb |This notebook shows the cleaning of the data and its export into a SQL database for ease of manipulation.|
 |analysis.ipynb |This notebook is the "meat and potatoes" of the data analysis. Walking through step by step will show what conclusions can be drawn from the data.|
